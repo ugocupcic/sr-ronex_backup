@@ -4,6 +4,7 @@ Changelog for package sr_ronex_controllers
 
 Forthcoming
 -----------
+
 * Call catkin_package in sr_ronex_test by default
 
 0.9.5 (2013-12-18)
