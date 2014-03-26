@@ -2,6 +2,12 @@
 Changelog for package sr_ronex_controllers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Update CMakeLists.txt
+* Update CMakeLists.txt
+* Contributors: Manos Nikolaidis
+
 0.9.5 (2013-12-18)
 ------------------
 
